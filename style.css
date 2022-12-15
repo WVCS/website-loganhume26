@@ -20,7 +20,7 @@ img{ border: dotted #ff24c8; 15px;}
 ul{list-style-type: none;
 text-align: center;
 position: fixed;
-witdth: 100%;}
+width: 100%;}
 li{float:left;}
 li a{padding: 10px;
 font-family: "Comic Sans", Fantasy;
